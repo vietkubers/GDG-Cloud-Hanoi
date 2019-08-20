@@ -1,5 +1,5 @@
 ## INTRO
-This tool helps count quests for 'GDG cloud study jam'.
+This tool helps count quests for [Online Cloud Study Jams Vietnam 2019](https://www.facebook.com/events/364284771151055)
 
 
 ## HOW TO RUN
